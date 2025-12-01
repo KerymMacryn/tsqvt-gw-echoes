@@ -73,7 +73,7 @@ tsqvt-gw-echoes/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/tsqvt-gw-echoes.git
+git clone https://github.com/KerymMacryn/tsqvt-gw-echoes.git
 cd tsqvt-gw-echoes
 
 # Create virtual environment
@@ -279,18 +279,12 @@ We estimate false alarm rates using:
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{Makraini2025,
-  title={Geometric Condensation from Spectral Data: A Phase-Transition Approach to EPR-Bell Correlations},
-  author={Makraini, Mohamed H.M.},
-  journal={arXiv preprint arXiv:2501.xxxxx},
-  year={2025}
-}
 
 @software{TSQVT_GW_Echoes,
   author={Makraini, Mohamed H.M.},
   title={TSQVT Gravitational Wave Echoes Analysis},
   year={2025},
-  url={https://github.com/yourusername/tsqvt-gw-echoes}
+  url={https://github.com/KerymMacryn/tsqvt-gw-echoes}
 }
 ```
 
@@ -314,7 +308,6 @@ This project is licensed under the MIT License - see `LICENSE` file for details.
 **Mohamed H.M. Makraini**
 - Email: mhamed34@alumno.uned.es
 - Institution: UNED (Universidad Nacional de Educación a Distancia)
-- arXiv: [2501.xxxxx](https://arxiv.org/abs/2501.xxxxx)
 
 ## Acknowledgments
 
