@@ -1,0 +1,18 @@
+{
+  "event": "GW150914_synthetic",
+  "data_type": "synthetic",
+  "signal_snr": 5.0,
+  "timestamp": "20251126_100640",
+  "tsqvt_params": {
+    "M_star": 1.0,
+    "xi": 0.1,
+    "gamma": 0.05,
+    "beta": 0.02
+  },
+  "max_snr": 0.0,
+  "n_candidates": 0,
+  "p_value": 1.0,
+  "significance_sigma": -Infinity,
+  "peaks": [],
+  "peak_snrs": []
+}
